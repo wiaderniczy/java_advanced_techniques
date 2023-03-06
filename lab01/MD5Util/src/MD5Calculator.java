@@ -7,13 +7,21 @@ import java.security.*;
 
 public class MD5Calculator {
 
-    public static String calculateHash(String filePath) throws NoSuchAlgorithmException, IOException{
+    public static String calculateHash(String filePath){
 
         byte[] data = new byte[0];
         MessageDigest md5 = null;
 
-        data = Files.readAllBytes(Paths.get(filePath));
-        md5 = MessageDigest.getInstance("MD5");
+        try {
+            data = Files.readAllBytes(Paths.get(filePath));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        try {
+            md5 = MessageDigest.getInstance("MD5");
+        } catch (NoSuchAlgorithmException e) {
+            e.printStackTrace();
+        }
         byte[] hash = md5.digest(data);
         String checksum = new BigInteger(1, hash).toString(16);
 
