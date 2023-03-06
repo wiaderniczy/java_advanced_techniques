@@ -42,29 +42,26 @@ public class Snapshot {
         //0 for NEW files, 1 for CHANGED files, 2 for UNCHANGED files
         String newPath = filePath.replace(":", "");
         String inputData = MD5Calculator.calculateHash(filePath);
-        Path path = Paths.get(newPath);
+        Path path = Paths.get(DIR + "/.snapshot/" + newPath + ".md5");
 
         if (!Files.exists(path)){
             createDirectory(filePath);
-            Path createdPath = Paths.get(DIR + "/.snapshot/" + newPath + ".md5");
-            //System.out.println(createdPath.toString());
             try {
-                Files.writeString(createdPath, inputData);
+                Files.writeString(path, inputData);
             } catch (IOException e) {
                 e.printStackTrace();
             }
+            System.out.println("wychodze xd");
             return 0;
         }
 
         char status = 0;
 
 
-
-        Stream<String> snapshotData = null;
-
+        String snapshotData = null;
         try {
 
-            snapshotData = Files.lines(Paths.get(DIR + "/" + newPath + ".md5"));
+            snapshotData = Files.readString(path);
 
         } catch (IOException e) {
 
@@ -72,7 +69,15 @@ public class Snapshot {
 
         }
 
-        snapshotData.forEach(System.out::println);
+        if (!snapshotData.equals(inputData)) {
+            status = 1;
+            try {
+                Files.writeString(path, inputData);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        else status = 2;
 
         return status;
     }
