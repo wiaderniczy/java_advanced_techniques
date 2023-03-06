@@ -51,7 +51,6 @@ public class Snapshot {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            System.out.println("wychodze xd");
             return 0;
         }
 
