@@ -8,7 +8,12 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.lang.ref.WeakReference;
+import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.WeakHashMap;
 
 public class AppWindow extends JFrame{
     private final Dimension SCREEN = Toolkit.getDefaultToolkit().getScreenSize();
@@ -27,8 +32,10 @@ public class AppWindow extends JFrame{
     private JButton backButton;
     private JButton nextButton;
     private JTextArea fileText;
-    ArrayList<FilePath> paths = new ArrayList<FilePath>();
+    Map<String, FilePath> paths = new WeakHashMap<String, FilePath>();
+
     FilePath currentFile;
+    Path currentDir;
 
     public AppWindow(){
         DefaultListModel<FilePath> listModel = new DefaultListModel<>();
@@ -57,9 +64,15 @@ public class AppWindow extends JFrame{
                 if (catalogueList.getSelectedIndex() > -1){
                     int index = catalogueList.getSelectedIndex();
                     FilePath file = (FilePath)catalogueList.getModel().getElementAt(index);
+
+                    //set label to status
+                    if(paths.containsValue(file)) status.setText("ALREADY REFERENCED");
+                    else status.setText("RELOADED FROM DISK");
+
                     if (CsvHandler.isDir(file.getPath())) {
+                        currentDir = file.getPath();
                         CsvHandler.openFile(file.getPath().toString());
-                        paths = CsvHandler.getPaths();
+                        if (!paths.containsValue(file)) paths = CsvHandler.getPaths();
                         populateList(listModel);
                     }
                     else {
@@ -74,12 +87,21 @@ public class AppWindow extends JFrame{
                 }
             }
         });
+
+        backButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                currentDir = currentDir.getParent();
+                CsvHandler.openFile(currentDir.toString());
+                populateList(listModel);
+            }
+        });
     }
 
     private void populateList(DefaultListModel<FilePath> listModel){
         listModel.clear();
-        for (FilePath path: paths) {
-            listModel.addElement(path);
+        for (Map.Entry<String, FilePath> entry : paths.entrySet()) {
+            listModel.addElement(entry.getValue());
         }
     }
 

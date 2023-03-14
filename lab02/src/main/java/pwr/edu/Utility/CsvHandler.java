@@ -8,17 +8,19 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class CsvHandler {
-    private static ArrayList<FilePath> filePaths = new ArrayList<FilePath>();
+    private static HashMap<String, FilePath> filePaths = new HashMap<String, FilePath>();
 
-    public static ArrayList<FilePath> openFile(String filePath){
+    public static HashMap<String, FilePath> openFile(String filePath){
         filePaths.clear();
         Path path = Paths.get(filePath);
-        ArrayList<FilePath> paths = new ArrayList<FilePath>();
+        HashMap<String, FilePath> paths = new HashMap<String, FilePath>();
         String data[] = null;
 
 
@@ -27,9 +29,9 @@ public class CsvHandler {
             List<Path> temp = subPath.collect(Collectors.toList());
             int i = 0;
             for (Path tempPath:temp){
-                filePaths.add(new FilePath(tempPath.getFileName().toString(), tempPath, data));
+                filePaths.put(tempPath.toString(), new FilePath(tempPath.toString(), tempPath, null));
             }
-            filePaths.remove(0);
+            filePaths.remove(filePath);
         } catch (IOException e) {}
 
         return paths;
@@ -51,7 +53,7 @@ public class CsvHandler {
         return data;
     }
 
-    public static ArrayList<FilePath> getPaths(){
+    public static Map<String, FilePath> getPaths(){
         return filePaths;
     }
 
