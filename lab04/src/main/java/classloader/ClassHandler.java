@@ -3,6 +3,8 @@ package classloader;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
@@ -11,6 +13,8 @@ import classes.MyStatusListener;
 import processing.StatusListener;
 
 public class ClassHandler {
+
+    private static ArrayList<Object> classes = new ArrayList<Object>();
 
     public static void load(String loadedClass, String task) {
 
@@ -22,6 +26,16 @@ public class ClassHandler {
 
             Object o = cp.newInstance();
 
+            classes.add(o);
+
+
+        } catch (InstantiationException | IllegalAccessException | InvocationTargetException | NoSuchMethodException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void execute(Class<?> p, Object o, String task){
+        try {
             Method getInfoMethod = p.getDeclaredMethod("getInfo");
             System.out.println((String)getInfoMethod.invoke(o));
 
@@ -58,9 +72,13 @@ public class ClassHandler {
                 }
             });
 
-        } catch (NoSuchMethodException | SecurityException | InstantiationException | IllegalAccessException
-                | IllegalArgumentException | InvocationTargetException e) {
+        }
+        catch (NoSuchMethodException | IllegalAccessException | InvocationTargetException e) {
             e.printStackTrace();
         }
+    }
+
+    public static ArrayList<Object> getList(){
+        return classes;
     }
 }
