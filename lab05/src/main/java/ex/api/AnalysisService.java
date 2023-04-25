@@ -11,4 +11,5 @@ public interface AnalysisService {
     // wyrzucająca wyjątek - jeśli podczas przetwarzania doszło do jakichś błędów
     // clear = true - jeśli wyniki po pobraniu mają zniknąć z serwisu
     public DataSet retrieve(boolean clear) throws AnalysisException;
+    public float getScore();
 }

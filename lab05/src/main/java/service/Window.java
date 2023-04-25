@@ -2,6 +2,7 @@ package service;
 
 import ex.api.AnalysisException;
 import ex.api.DataSet;
+import spi.ServiceProvider;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
@@ -30,8 +31,8 @@ public class Window extends JFrame {
     private final int WINDOW_HEIGHT = 600;
 
     private DataSet ds;
-    private static String path;
-    private static Service service;
+    private String path;
+    private ServiceProvider service;
 
     public Window(){
         this.setContentPane(mainPanel);
@@ -74,14 +75,16 @@ public class Window extends JFrame {
 
     private void submitTask(String algorithm){
         String [] temp = {algorithm};
-        try {
-            service.setOptions(temp);
-            service.submit(ds);
-        } catch (AnalysisException ex) {
-            ex.printStackTrace();
-        }
-        algorithmLabel.setText(service.getName());
-        scoreLabel.setText(Float.toString(service.getScore()));
+        service.providers(false).forEachRemaining(service -> {
+            try {
+                service.setOptions(temp);
+                service.submit(ds);
+            } catch (AnalysisException e) {
+                e.printStackTrace();
+            }
+        });
+        service.providers(false).forEachRemaining(service -> algorithmLabel.setText(service.getName()));
+        service.providers(false).forEachRemaining(service -> scoreLabel.setText(Float.toString(service.getScore())));
     }
 
     private void fileChooserActionPerformed(ActionEvent e){
@@ -91,18 +94,30 @@ public class Window extends JFrame {
         if (result == JFileChooser.APPROVE_OPTION){
             File selectedFile = chooser.getSelectedFile();
             path = selectedFile.getAbsolutePath();
+            loadService();
             loadCSV();
             populateTable();
         }
     }
 
+    private void loadService(){
+        service = new ServiceProvider();
+
+    }
+
     private void loadCSV(){
-        this.service = new Service(path);
-        try {
-            this.ds = service.retrieve(false);
-        } catch (AnalysisException e) {
-            e.printStackTrace();
+        this.ds = new DataSet();
+
+        String [][] matrix = Reader.readFile(path);
+        String[] header = matrix[0];
+        String[][] data = new String[matrix.length][matrix[1].length];
+
+        for (int i = 1; i < matrix.length; i++){
+            data[i-1] = matrix[i];
         }
+
+        this.ds.setData(data);
+        this.ds.setHeader(header);
     }
 
     private void populateTable(){
@@ -117,6 +132,5 @@ public class Window extends JFrame {
 
     public static void main(String[] args) {
         Window window = new Window();
-
     }
 }

@@ -13,21 +13,8 @@ public class Service implements AnalysisService {
     private String algorithm;
     private float score;
 
-    public Service(String path) {
+    public Service() {
         this.algorithm = "Kappa"; //default value
-        this.ds = new DataSet();
-
-        String [][] matrix = Reader.readFile(path);
-        String[] header = matrix[0];
-        String[][] data = new String[matrix.length][matrix[1].length];
-
-        for (int i = 1; i < matrix.length; i++){
-            data[i-1] = matrix[i];
-        }
-
-        this.ds.setData(data);
-        this.ds.setHeader(header);
-
     }
     @Override
     public void setOptions(String[] options) throws AnalysisException {
@@ -40,7 +27,8 @@ public class Service implements AnalysisService {
     }
 
     @Override
-    public void submit(DataSet ds) throws AnalysisException {
+    public void submit(DataSet data) throws AnalysisException {
+        this.ds = data;
         switch(this.algorithm){
             case "Kappa":
                 this.score = Kappa.getvalue(this.ds.getData());
