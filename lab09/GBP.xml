@@ -1,0 +1,1936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for U.K. Pound Sterling (GBP)</title>
+	<link>http://www.floatrates.com/currency/gbp/</link>
+	<xmlLink>http://www.floatrates.com/daily/gbp.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for U.K. Pound Sterling (GBP) from the Float Rates. Published at Mon, 29 May 2023 11:55:01 GMT.</description>
+	<language>en</language>
+	<baseCurrency>GBP</baseCurrency>
+	<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+	<lastBuildDate>Mon, 29 May 2023 11:55:01 GMT</lastBuildDate>
+	<item>
+		<title>1 GBP = 1.23559941 USD</title>
+		<link>http://www.floatrates.com/gbp/usd/</link>
+		<description>1 U.K. Pound Sterling = 1.23559941 U.S. Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>1.23559941</exchangeRate>
+		<inverseRate>0.80932379</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 0.80932379 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.15109035 EUR</title>
+		<link>http://www.floatrates.com/gbp/eur/</link>
+		<description>1 U.K. Pound Sterling = 1.15109035 Euro</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>1.15109035</exchangeRate>
+		<inverseRate>0.86874154</inverseRate>
+		<inverseDescription>1 Euro = 0.86874154 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 173.31710470 JPY</title>
+		<link>http://www.floatrates.com/gbp/jpy/</link>
+		<description>1 U.K. Pound Sterling = 173.31710470 Japanese Yen</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>173.31710470</exchangeRate>
+		<inverseRate>0.00576977</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.00576977 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.88877277 AUD</title>
+		<link>http://www.floatrates.com/gbp/aud/</link>
+		<description>1 U.K. Pound Sterling = 1.88877277 Australian Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>1.88877277</exchangeRate>
+		<inverseRate>0.52944431</inverseRate>
+		<inverseDescription>1 Australian Dollar = 0.52944431 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.11759586 CHF</title>
+		<link>http://www.floatrates.com/gbp/chf/</link>
+		<description>1 U.K. Pound Sterling = 1.11759586 Swiss Franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>1.11759586</exchangeRate>
+		<inverseRate>0.89477783</inverseRate>
+		<inverseDescription>1 Swiss Franc = 0.89477783 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.68152588 CAD</title>
+		<link>http://www.floatrates.com/gbp/cad/</link>
+		<description>1 U.K. Pound Sterling = 1.68152588 Canadian Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>1.68152588</exchangeRate>
+		<inverseRate>0.59469796</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 0.59469796 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 27.24267902 CZK</title>
+		<link>http://www.floatrates.com/gbp/czk/</link>
+		<description>1 U.K. Pound Sterling = 27.24267902 Czech Koruna</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>27.24267902</exchangeRate>
+		<inverseRate>0.03670711</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.03670711 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 3.51542481 BYN</title>
+		<link>http://www.floatrates.com/gbp/byn/</link>
+		<description>1 U.K. Pound Sterling = 3.51542481 Belarussian Ruble</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>3.51542481</exchangeRate>
+		<inverseRate>0.28446064</inverseRate>
+		<inverseDescription>1 Belarussian Ruble = 0.28446064 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 135.02849221 RSD</title>
+		<link>http://www.floatrates.com/gbp/rsd/</link>
+		<description>1 U.K. Pound Sterling = 135.02849221 Serbian Dinar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>135.02849221</exchangeRate>
+		<inverseRate>0.00740584</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.00740584 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 45.93688855 NIO</title>
+		<link>http://www.floatrates.com/gbp/nio/</link>
+		<description>1 U.K. Pound Sterling = 45.93688855 Nicaraguan Córdoba</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>45.93688855</exchangeRate>
+		<inverseRate>0.02176900</inverseRate>
+		<inverseDescription>1 Nicaraguan Córdoba = 0.02176900 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 10.67600356 SBD</title>
+		<link>http://www.floatrates.com/gbp/sbd/</link>
+		<description>1 U.K. Pound Sterling = 10.67600356 Solomon Islands dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SBD</targetCurrency>
+		<targetName>Solomon Islands dollar</targetName>
+		<exchangeRate>10.67600356</exchangeRate>
+		<inverseRate>0.09366801</inverseRate>
+		<inverseDescription>1 Solomon Islands dollar = 0.09366801 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1290.09407659 MWK</title>
+		<link>http://www.floatrates.com/gbp/mwk/</link>
+		<description>1 U.K. Pound Sterling = 1290.09407659 Malawian kwacha</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>1290.09407659</exchangeRate>
+		<inverseRate>0.00077514</inverseRate>
+		<inverseDescription>1 Malawian kwacha = 0.00077514 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 314.21185813 YER</title>
+		<link>http://www.floatrates.com/gbp/yer/</link>
+		<description>1 U.K. Pound Sterling = 314.21185813 Yemeni rial</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>YER</targetCurrency>
+		<targetName>Yemeni rial</targetName>
+		<exchangeRate>314.21185813</exchangeRate>
+		<inverseRate>0.00318257</inverseRate>
+		<inverseDescription>1 Yemeni rial = 0.00318257 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 13.66502548 NOK</title>
+		<link>http://www.floatrates.com/gbp/nok/</link>
+		<description>1 U.K. Pound Sterling = 13.66502548 Norwegian Krone</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>13.66502548</exchangeRate>
+		<inverseRate>0.07317952</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.07317952 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4.51379730 QAR</title>
+		<link>http://www.floatrates.com/gbp/qar/</link>
+		<description>1 U.K. Pound Sterling = 4.51379730 Qatari Rial</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>4.51379730</exchangeRate>
+		<inverseRate>0.22154296</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.22154296 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 5.70650604 RON</title>
+		<link>http://www.floatrates.com/gbp/ron/</link>
+		<description>1 U.K. Pound Sterling = 5.70650604 Romanian New Leu</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>5.70650604</exchangeRate>
+		<inverseRate>0.17523858</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.17523858 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 169.01855329 DZD</title>
+		<link>http://www.floatrates.com/gbp/dzd/</link>
+		<description>1 U.K. Pound Sterling = 169.01855329 Algerian Dinar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>169.01855329</exchangeRate>
+		<inverseRate>0.00591651</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.00591651 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 293.05267248 ARS</title>
+		<link>http://www.floatrates.com/gbp/ars/</link>
+		<description>1 U.K. Pound Sterling = 293.05267248 Argentine Peso</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>293.05267248</exchangeRate>
+		<inverseRate>0.00341236</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.00341236 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 28.83110795 STN</title>
+		<link>http://www.floatrates.com/gbp/stn/</link>
+		<description>1 U.K. Pound Sterling = 28.83110795 São Tomé and Príncipe Dobra</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>28.83110795</exchangeRate>
+		<inverseRate>0.03468476</inverseRate>
+		<inverseDescription>1 São Tomé and Príncipe Dobra = 0.03468476 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 3542.72270184 BIF</title>
+		<link>http://www.floatrates.com/gbp/bif/</link>
+		<description>1 U.K. Pound Sterling = 3542.72270184 Burundian franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BIF</targetCurrency>
+		<targetName>Burundian franc</targetName>
+		<exchangeRate>3542.72270184</exchangeRate>
+		<inverseRate>0.00028227</inverseRate>
+		<inverseDescription>1 Burundian franc = 0.00028227 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2638.23586442 MMK</title>
+		<link>http://www.floatrates.com/gbp/mmk/</link>
+		<description>1 U.K. Pound Sterling = 2638.23586442 Myanma Kyat</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>2638.23586442</exchangeRate>
+		<inverseRate>0.00037904</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.00037904 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 57.21963311 MUR</title>
+		<link>http://www.floatrates.com/gbp/mur/</link>
+		<description>1 U.K. Pound Sterling = 57.21963311 Mauritian Rupee</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>57.21963311</exchangeRate>
+		<inverseRate>0.01747652</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.01747652 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 32.11263511 VES</title>
+		<link>http://www.floatrates.com/gbp/ves/</link>
+		<description>1 U.K. Pound Sterling = 32.11263511 Venezuelan Bolivar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>VES</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>32.11263511</exchangeRate>
+		<inverseRate>0.03114039</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar = 0.03114039 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 133.05027811 BDT</title>
+		<link>http://www.floatrates.com/gbp/bdt/</link>
+		<description>1 U.K. Pound Sterling = 133.05027811 Bangladeshi taka</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BDT</targetCurrency>
+		<targetName>Bangladeshi taka</targetName>
+		<exchangeRate>133.05027811</exchangeRate>
+		<inverseRate>0.00751596</inverseRate>
+		<inverseDescription>1 Bangladeshi taka = 0.00751596 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 21.85177328 MXN</title>
+		<link>http://www.floatrates.com/gbp/mxn/</link>
+		<description>1 U.K. Pound Sterling = 21.85177328 Mexican Peso</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>21.85177328</exchangeRate>
+		<inverseRate>0.04576288</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.04576288 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 45.59777382 UAH</title>
+		<link>http://www.floatrates.com/gbp/uah/</link>
+		<description>1 U.K. Pound Sterling = 45.59777382 Ukrainian Hryvnia</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>45.59777382</exchangeRate>
+		<inverseRate>0.02193090</inverseRate>
+		<inverseDescription>1 Ukrainian Hryvnia = 0.02193090 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 671.23854913 CRC</title>
+		<link>http://www.floatrates.com/gbp/crc/</link>
+		<description>1 U.K. Pound Sterling = 671.23854913 Costa Rican Colón</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>671.23854913</exchangeRate>
+		<inverseRate>0.00148978</inverseRate>
+		<inverseDescription>1 Costa Rican Colón = 0.00148978 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.53186674 BZD</title>
+		<link>http://www.floatrates.com/gbp/bzd/</link>
+		<description>1 U.K. Pound Sterling = 2.53186674 Belize dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BZD</targetCurrency>
+		<targetName>Belize dollar</targetName>
+		<exchangeRate>2.53186674</exchangeRate>
+		<inverseRate>0.39496549</inverseRate>
+		<inverseDescription>1 Belize dollar = 0.39496549 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 10804.20401618 GNF</title>
+		<link>http://www.floatrates.com/gbp/gnf/</link>
+		<description>1 U.K. Pound Sterling = 10804.20401618 Guinean franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>GNF</targetCurrency>
+		<targetName>Guinean franc</targetName>
+		<exchangeRate>10804.20401618</exchangeRate>
+		<inverseRate>0.00009256</inverseRate>
+		<inverseDescription>1 Guinean franc = 0.00009256 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 24.18179119 SZL</title>
+		<link>http://www.floatrates.com/gbp/szl/</link>
+		<description>1 U.K. Pound Sterling = 24.18179119 Swazi lilangeni</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SZL</targetCurrency>
+		<targetName>Swazi lilangeni</targetName>
+		<exchangeRate>24.18179119</exchangeRate>
+		<inverseRate>0.04135343</inverseRate>
+		<inverseDescription>1 Swazi lilangeni = 0.04135343 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 714.07095509 SOS</title>
+		<link>http://www.floatrates.com/gbp/sos/</link>
+		<description>1 U.K. Pound Sterling = 714.07095509 Somali shilling</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SOS</targetCurrency>
+		<targetName>Somali shilling</targetName>
+		<exchangeRate>714.07095509</exchangeRate>
+		<inverseRate>0.00140042</inverseRate>
+		<inverseDescription>1 Somali shilling = 0.00140042 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4.54058611 AED</title>
+		<link>http://www.floatrates.com/gbp/aed/</link>
+		<description>1 U.K. Pound Sterling = 4.54058611 U.A.E Dirham</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>4.54058611</exchangeRate>
+		<inverseRate>0.22023588</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.22023588 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 18502.34536791 IDR</title>
+		<link>http://www.floatrates.com/gbp/idr/</link>
+		<description>1 U.K. Pound Sterling = 18502.34536791 Indonesian Rupiah</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>18502.34536791</exchangeRate>
+		<inverseRate>0.00005405</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.00005405 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 756.32956031 XAF</title>
+		<link>http://www.floatrates.com/gbp/xaf/</link>
+		<description>1 U.K. Pound Sterling = 756.32956031 Central African CFA Franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>756.32956031</exchangeRate>
+		<inverseRate>0.00132217</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.00132217 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.11654511 AZN</title>
+		<link>http://www.floatrates.com/gbp/azn/</link>
+		<description>1 U.K. Pound Sterling = 2.11654511 Azerbaijan Manat</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>2.11654511</exchangeRate>
+		<inverseRate>0.47246808</inverseRate>
+		<inverseDescription>1 Azerbaijan Manat = 0.47246808 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 8998.92986521 PYG</title>
+		<link>http://www.floatrates.com/gbp/pyg/</link>
+		<description>1 U.K. Pound Sterling = 8998.92986521 Paraguayan Guaraní</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>8998.92986521</exchangeRate>
+		<inverseRate>0.00011112</inverseRate>
+		<inverseDescription>1 Paraguayan Guaraní = 0.00011112 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 265.65009875 GYD</title>
+		<link>http://www.floatrates.com/gbp/gyd/</link>
+		<description>1 U.K. Pound Sterling = 265.65009875 Guyanese dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>GYD</targetCurrency>
+		<targetName>Guyanese dollar</targetName>
+		<exchangeRate>265.65009875</exchangeRate>
+		<inverseRate>0.00376435</inverseRate>
+		<inverseDescription>1 Guyanese dollar = 0.00376435 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1411.91302484 RWF</title>
+		<link>http://www.floatrates.com/gbp/rwf/</link>
+		<description>1 U.K. Pound Sterling = 1411.91302484 Rwandan franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>RWF</targetCurrency>
+		<targetName>Rwandan franc</targetName>
+		<exchangeRate>1411.91302484</exchangeRate>
+		<inverseRate>0.00070826</inverseRate>
+		<inverseDescription>1 Rwandan franc = 0.00070826 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 18.93479877 ERN</title>
+		<link>http://www.floatrates.com/gbp/ern/</link>
+		<description>1 U.K. Pound Sterling = 18.93479877 Eritrean nakfa</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ERN</targetCurrency>
+		<targetName>Eritrean nakfa</targetName>
+		<exchangeRate>18.93479877</exchangeRate>
+		<inverseRate>0.05281281</inverseRate>
+		<inverseDescription>1 Eritrean nakfa = 0.05281281 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 3.39520530 WST</title>
+		<link>http://www.floatrates.com/gbp/wst/</link>
+		<description>1 U.K. Pound Sterling = 3.39520530 Samoan tala</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>WST</targetCurrency>
+		<targetName>Samoan tala</targetName>
+		<exchangeRate>3.39520530</exchangeRate>
+		<inverseRate>0.29453300</inverseRate>
+		<inverseDescription>1 Samoan tala = 0.29453300 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 6.18077811 BRL</title>
+		<link>http://www.floatrates.com/gbp/brl/</link>
+		<description>1 U.K. Pound Sterling = 6.18077811 Brazilian Real</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>6.18077811</exchangeRate>
+		<inverseRate>0.16179193</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.16179193 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 102.03800414 INR</title>
+		<link>http://www.floatrates.com/gbp/inr/</link>
+		<description>1 U.K. Pound Sterling = 102.03800414 Indian Rupee</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>102.03800414</exchangeRate>
+		<inverseRate>0.00980027</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.00980027 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 163.60208114 NPR</title>
+		<link>http://www.floatrates.com/gbp/npr/</link>
+		<description>1 U.K. Pound Sterling = 163.60208114 Nepalese Rupee</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>163.60208114</exchangeRate>
+		<inverseRate>0.00611239</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.00611239 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 29010.62361221 VND</title>
+		<link>http://www.floatrates.com/gbp/vnd/</link>
+		<description>1 U.K. Pound Sterling = 29010.62361221 Vietnamese Dong</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>29010.62361221</exchangeRate>
+		<inverseRate>0.00003447</inverseRate>
+		<inverseDescription>1 Vietnamese Dong = 0.00003447 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1632.15323539 IQD</title>
+		<link>http://www.floatrates.com/gbp/iqd/</link>
+		<description>1 U.K. Pound Sterling = 1632.15323539 Iraqi dinar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>IQD</targetCurrency>
+		<targetName>Iraqi dinar</targetName>
+		<exchangeRate>1632.15323539</exchangeRate>
+		<inverseRate>0.00061269</inverseRate>
+		<inverseDescription>1 Iraqi dinar = 0.00061269 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 109.99368800 AFN</title>
+		<link>http://www.floatrates.com/gbp/afn/</link>
+		<description>1 U.K. Pound Sterling = 109.99368800 Afghan afghani</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AFN</targetCurrency>
+		<targetName>Afghan afghani</targetName>
+		<exchangeRate>109.99368800</exchangeRate>
+		<inverseRate>0.00909143</inverseRate>
+		<inverseDescription>1 Afghan afghani = 0.00909143 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 24.18179119 NAD</title>
+		<link>http://www.floatrates.com/gbp/nad/</link>
+		<description>1 U.K. Pound Sterling = 24.18179119 Namibian dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NAD</targetCurrency>
+		<targetName>Namibian dollar</targetName>
+		<exchangeRate>24.18179119</exchangeRate>
+		<inverseRate>0.04135343</inverseRate>
+		<inverseDescription>1 Namibian dollar = 0.04135343 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 3069.66502342 SYP</title>
+		<link>http://www.floatrates.com/gbp/syp/</link>
+		<description>1 U.K. Pound Sterling = 3069.66502342 Syrian pound</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SYP</targetCurrency>
+		<targetName>Syrian pound</targetName>
+		<exchangeRate>3069.66502342</exchangeRate>
+		<inverseRate>0.00032577</inverseRate>
+		<inverseDescription>1 Syrian pound = 0.00032577 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 10.13878092 MOP</title>
+		<link>http://www.floatrates.com/gbp/mop/</link>
+		<description>1 U.K. Pound Sterling = 10.13878092 Macanese pataca</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MOP</targetCurrency>
+		<targetName>Macanese pataca</targetName>
+		<exchangeRate>10.13878092</exchangeRate>
+		<inverseRate>0.09863119</inverseRate>
+		<inverseDescription>1 Macanese pataca = 0.09863119 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.28387699 BAM</title>
+		<link>http://www.floatrates.com/gbp/bam/</link>
+		<description>1 U.K. Pound Sterling = 2.28387699 Bosnia and Herzegovina convertible mark</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>2.28387699</exchangeRate>
+		<inverseRate>0.43785195</inverseRate>
+		<inverseDescription>1 Bosnia and Herzegovina convertible mark = 0.43785195 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 8.57372677 DKK</title>
+		<link>http://www.floatrates.com/gbp/dkk/</link>
+		<description>1 U.K. Pound Sterling = 8.57372677 Danish Krone</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>8.57372677</exchangeRate>
+		<inverseRate>0.11663539</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.11663539 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 369.81311003 LKR</title>
+		<link>http://www.floatrates.com/gbp/lkr/</link>
+		<description>1 U.K. Pound Sterling = 369.81311003 Sri Lanka Rupee</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>369.81311003</exchangeRate>
+		<inverseRate>0.00270407</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.00270407 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 3.82894406 TND</title>
+		<link>http://www.floatrates.com/gbp/tnd/</link>
+		<description>1 U.K. Pound Sterling = 3.82894406 Tunisian Dinar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>3.82894406</exchangeRate>
+		<inverseRate>0.26116861</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 0.26116861 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 101.35951736 RUB</title>
+		<link>http://www.floatrates.com/gbp/rub/</link>
+		<description>1 U.K. Pound Sterling = 101.35951736 Russian Rouble</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>101.35951736</exchangeRate>
+		<inverseRate>0.00986587</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.00986587 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4.35786295 TMT</title>
+		<link>http://www.floatrates.com/gbp/tmt/</link>
+		<description>1 U.K. Pound Sterling = 4.35786295 New Turkmenistan Manat</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>4.35786295</exchangeRate>
+		<inverseRate>0.22947027</inverseRate>
+		<inverseDescription>1 New Turkmenistan Manat = 0.22947027 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 10.99542887 SVC</title>
+		<link>http://www.floatrates.com/gbp/svc/</link>
+		<description>1 U.K. Pound Sterling = 10.99542887 Salvadoran colon</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SVC</targetCurrency>
+		<targetName>Salvadoran colon</targetName>
+		<exchangeRate>10.99542887</exchangeRate>
+		<inverseRate>0.09094688</inverseRate>
+		<inverseDescription>1 Salvadoran colon = 0.09094688 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 3.40118004 XCD</title>
+		<link>http://www.floatrates.com/gbp/xcd/</link>
+		<description>1 U.K. Pound Sterling = 3.40118004 East Caribbean Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>3.40118004</exchangeRate>
+		<inverseRate>0.29401560</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 0.29401560 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 22111.99381278 LAK</title>
+		<link>http://www.floatrates.com/gbp/lak/</link>
+		<description>1 U.K. Pound Sterling = 22111.99381278 Lao kip</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LAK</targetCurrency>
+		<targetName>Lao kip</targetName>
+		<exchangeRate>22111.99381278</exchangeRate>
+		<inverseRate>0.00004522</inverseRate>
+		<inverseDescription>1 Lao kip = 0.00004522 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 9.80355164 GTQ</title>
+		<link>http://www.floatrates.com/gbp/gtq/</link>
+		<description>1 U.K. Pound Sterling = 9.80355164 Guatemalan Quetzal</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>9.80355164</exchangeRate>
+		<inverseRate>0.10200385</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.10200385 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 354.39575780 PKR</title>
+		<link>http://www.floatrates.com/gbp/pkr/</link>
+		<description>1 U.K. Pound Sterling = 354.39575780 Pakistani Rupee</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>354.39575780</exchangeRate>
+		<inverseRate>0.00282170</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.00282170 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.25130630 BGN</title>
+		<link>http://www.floatrates.com/gbp/bgn/</link>
+		<description>1 U.K. Pound Sterling = 2.25130630 Bulgarian Lev</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>2.25130630</exchangeRate>
+		<inverseRate>0.44418656</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.44418656 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 5.21700268 PLN</title>
+		<link>http://www.floatrates.com/gbp/pln/</link>
+		<description>1 U.K. Pound Sterling = 5.21700268 Polish Zloty</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>5.21700268</exchangeRate>
+		<inverseRate>0.19168094</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.19168094 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.00584347 GIP</title>
+		<link>http://www.floatrates.com/gbp/gip/</link>
+		<description>1 U.K. Pound Sterling = 1.00584347 Gibraltar pound</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>GIP</targetCurrency>
+		<targetName>Gibraltar pound</targetName>
+		<exchangeRate>1.00584347</exchangeRate>
+		<inverseRate>0.99419048</inverseRate>
+		<inverseDescription>1 Gibraltar pound = 0.99419048 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 3.16063059 GEL</title>
+		<link>http://www.floatrates.com/gbp/gel/</link>
+		<description>1 U.K. Pound Sterling = 3.16063059 Georgian lari</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>GEL</targetCurrency>
+		<targetName>Georgian lari</targetName>
+		<exchangeRate>3.16063059</exchangeRate>
+		<inverseRate>0.31639256</inverseRate>
+		<inverseDescription>1 Georgian lari = 0.31639256 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 71.77145250 MKD</title>
+		<link>http://www.floatrates.com/gbp/mkd/</link>
+		<description>1 U.K. Pound Sterling = 71.77145250 Macedonian denar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>71.77145250</exchangeRate>
+		<inverseRate>0.01393312</inverseRate>
+		<inverseDescription>1 Macedonian denar = 0.01393312 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.27362781 AWG</title>
+		<link>http://www.floatrates.com/gbp/awg/</link>
+		<description>1 U.K. Pound Sterling = 2.27362781 Aruban florin</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>2.27362781</exchangeRate>
+		<inverseRate>0.43982573</inverseRate>
+		<inverseDescription>1 Aruban florin = 0.43982573 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 686.63559734 AOA</title>
+		<link>http://www.floatrates.com/gbp/aoa/</link>
+		<description>1 U.K. Pound Sterling = 686.63559734 Angolan kwanza</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AOA</targetCurrency>
+		<targetName>Angolan kwanza</targetName>
+		<exchangeRate>686.63559734</exchangeRate>
+		<inverseRate>0.00145638</inverseRate>
+		<inverseDescription>1 Angolan kwanza = 0.00145638 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 19.42102918 MVR</title>
+		<link>http://www.floatrates.com/gbp/mvr/</link>
+		<description>1 U.K. Pound Sterling = 19.42102918 Maldivian rufiyaa</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MVR</targetCurrency>
+		<targetName>Maldivian rufiyaa</targetName>
+		<exchangeRate>19.42102918</exchangeRate>
+		<inverseRate>0.05149058</inverseRate>
+		<inverseDescription>1 Maldivian rufiyaa = 0.05149058 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4.63732271 SAR</title>
+		<link>http://www.floatrates.com/gbp/sar/</link>
+		<description>1 U.K. Pound Sterling = 4.63732271 Saudi Riyal</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>4.63732271</exchangeRate>
+		<inverseRate>0.21564167</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.21564167 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1636.77574509 KRW</title>
+		<link>http://www.floatrates.com/gbp/krw/</link>
+		<description>1 U.K. Pound Sterling = 1636.77574509 South Korean Won</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>1636.77574509</exchangeRate>
+		<inverseRate>0.00061096</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.00061096 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 42.47359957 MRO</title>
+		<link>http://www.floatrates.com/gbp/mro/</link>
+		<description>1 U.K. Pound Sterling = 42.47359957 Mauritanian Ouguiya</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MRO</targetCurrency>
+		<targetName>Mauritanian Ouguiya</targetName>
+		<exchangeRate>42.47359957</exchangeRate>
+		<inverseRate>0.02354404</inverseRate>
+		<inverseDescription>1 Mauritanian Ouguiya = 0.02354404 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 5560.64471036 COP</title>
+		<link>http://www.floatrates.com/gbp/cop/</link>
+		<description>1 U.K. Pound Sterling = 5560.64471036 Colombian Peso</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>5560.64471036</exchangeRate>
+		<inverseRate>0.00017984</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.00017984 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.53617347 BBD</title>
+		<link>http://www.floatrates.com/gbp/bbd/</link>
+		<description>1 U.K. Pound Sterling = 2.53617347 Barbadian Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>2.53617347</exchangeRate>
+		<inverseRate>0.39429480</inverseRate>
+		<inverseDescription>1 Barbadian Dollar = 0.39429480 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 223.64063340 DJF</title>
+		<link>http://www.floatrates.com/gbp/djf/</link>
+		<description>1 U.K. Pound Sterling = 223.64063340 Djiboutian franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>223.64063340</exchangeRate>
+		<inverseRate>0.00447146</inverseRate>
+		<inverseDescription>1 Djiboutian franc = 0.00447146 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 30.87828722 HNL</title>
+		<link>http://www.floatrates.com/gbp/hnl/</link>
+		<description>1 U.K. Pound Sterling = 30.87828722 Honduran Lempira</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>30.87828722</exchangeRate>
+		<inverseRate>0.03238522</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.03238522 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 173.46199109 KES</title>
+		<link>http://www.floatrates.com/gbp/kes/</link>
+		<description>1 U.K. Pound Sterling = 173.46199109 Kenyan shilling</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KES</targetCurrency>
+		<targetName>Kenyan shilling</targetName>
+		<exchangeRate>173.46199109</exchangeRate>
+		<inverseRate>0.00576495</inverseRate>
+		<inverseDescription>1 Kenyan shilling = 0.00576495 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 0.46551702 BHD</title>
+		<link>http://www.floatrates.com/gbp/bhd/</link>
+		<description>1 U.K. Pound Sterling = 0.46551702 Bahrain Dinar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.46551702</exchangeRate>
+		<inverseRate>2.14814916</inverseRate>
+		<inverseDescription>1 Bahrain Dinar = 2.14814916 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 38.18286297 EGP</title>
+		<link>http://www.floatrates.com/gbp/egp/</link>
+		<description>1 U.K. Pound Sterling = 38.18286297 Egyptian Pound</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>38.18286297</exchangeRate>
+		<inverseRate>0.02618976</inverseRate>
+		<inverseDescription>1 Egyptian Pound = 0.02618976 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 24.22260698 ZAR</title>
+		<link>http://www.floatrates.com/gbp/zar/</link>
+		<description>1 U.K. Pound Sterling = 24.22260698 South African Rand</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>24.22260698</exchangeRate>
+		<inverseRate>0.04128375</inverseRate>
+		<inverseDescription>1 South African Rand = 0.04128375 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 22.10242655 MDL</title>
+		<link>http://www.floatrates.com/gbp/mdl/</link>
+		<description>1 U.K. Pound Sterling = 22.10242655 Moldova Lei</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>22.10242655</exchangeRate>
+		<inverseRate>0.04524390</inverseRate>
+		<inverseDescription>1 Moldova Lei = 0.04524390 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.24542226 PAB</title>
+		<link>http://www.floatrates.com/gbp/pab/</link>
+		<description>1 U.K. Pound Sterling = 1.24542226 Panamanian Balboa</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>1.24542226</exchangeRate>
+		<inverseRate>0.80294052</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 0.80294052 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.80893021 FJD</title>
+		<link>http://www.floatrates.com/gbp/fjd/</link>
+		<description>1 U.K. Pound Sterling = 2.80893021 Fiji Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>2.80893021</exchangeRate>
+		<inverseRate>0.35600742</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 0.35600742 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2920.21854494 CDF</title>
+		<link>http://www.floatrates.com/gbp/cdf/</link>
+		<description>1 U.K. Pound Sterling = 2920.21854494 Congolese franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>2920.21854494</exchangeRate>
+		<inverseRate>0.00034244</inverseRate>
+		<inverseDescription>1 Congolese franc = 0.00034244 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 80.53133549 MZN</title>
+		<link>http://www.floatrates.com/gbp/mzn/</link>
+		<description>1 U.K. Pound Sterling = 80.53133549 Mozambican metical</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MZN</targetCurrency>
+		<targetName>Mozambican metical</targetName>
+		<exchangeRate>80.53133549</exchangeRate>
+		<inverseRate>0.01241753</inverseRate>
+		<inverseDescription>1 Mozambican metical = 0.01241753 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4684.40802497 UGX</title>
+		<link>http://www.floatrates.com/gbp/ugx/</link>
+		<description>1 U.K. Pound Sterling = 4684.40802497 Ugandan shilling</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>UGX</targetCurrency>
+		<targetName>Ugandan shilling</targetName>
+		<exchangeRate>4684.40802497</exchangeRate>
+		<inverseRate>0.00021347</inverseRate>
+		<inverseDescription>1 Ugandan shilling = 0.00021347 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 9.67751632 HKD</title>
+		<link>http://www.floatrates.com/gbp/hkd/</link>
+		<description>1 U.K. Pound Sterling = 9.67751632 Hong Kong Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>9.67751632</exchangeRate>
+		<inverseRate>0.10333230</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.10333230 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 12.63369908 MAD</title>
+		<link>http://www.floatrates.com/gbp/mad/</link>
+		<description>1 U.K. Pound Sterling = 12.63369908 Moroccan Dirham</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>12.63369908</exchangeRate>
+		<inverseRate>0.07915338</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.07915338 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 37.89349068 TWD</title>
+		<link>http://www.floatrates.com/gbp/twd/</link>
+		<description>1 U.K. Pound Sterling = 37.89349068 New Taiwan Dollar </description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>37.89349068</exchangeRate>
+		<inverseRate>0.02638976</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.02638976 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 52303.32574778 IRR</title>
+		<link>http://www.floatrates.com/gbp/irr/</link>
+		<description>1 U.K. Pound Sterling = 52303.32574778 Iranian rial</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>IRR</targetCurrency>
+		<targetName>Iranian rial</targetName>
+		<exchangeRate>52303.32574778</exchangeRate>
+		<inverseRate>0.00001912</inverseRate>
+		<inverseDescription>1 Iranian rial = 0.00001912 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 8.58752299 BOB</title>
+		<link>http://www.floatrates.com/gbp/bob/</link>
+		<description>1 U.K. Pound Sterling = 8.58752299 Bolivian Boliviano</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>8.58752299</exchangeRate>
+		<inverseRate>0.11644801</inverseRate>
+		<inverseDescription>1 Bolivian Boliviano = 0.11644801 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 215.63762561 LRD</title>
+		<link>http://www.floatrates.com/gbp/lrd/</link>
+		<description>1 U.K. Pound Sterling = 215.63762561 Liberian dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LRD</targetCurrency>
+		<targetName>Liberian dollar</targetName>
+		<exchangeRate>215.63762561</exchangeRate>
+		<inverseRate>0.00463741</inverseRate>
+		<inverseDescription>1 Liberian dollar = 0.00463741 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 756.29428113 SDG</title>
+		<link>http://www.floatrates.com/gbp/sdg/</link>
+		<description>1 U.K. Pound Sterling = 756.29428113 Sudanese pound</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SDG</targetCurrency>
+		<targetName>Sudanese pound</targetName>
+		<exchangeRate>756.29428113</exchangeRate>
+		<inverseRate>0.00132224</inverseRate>
+		<inverseDescription>1 Sudanese pound = 0.00132224 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.95846167 TOP</title>
+		<link>http://www.floatrates.com/gbp/top/</link>
+		<description>1 U.K. Pound Sterling = 2.95846167 Tongan paʻanga</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TOP</targetCurrency>
+		<targetName>Tongan paʻanga</targetName>
+		<exchangeRate>2.95846167</exchangeRate>
+		<inverseRate>0.33801351</inverseRate>
+		<inverseDescription>1 Tongan paʻanga = 0.33801351 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 151.00936250 VUV</title>
+		<link>http://www.floatrates.com/gbp/vuv/</link>
+		<description>1 U.K. Pound Sterling = 151.00936250 Vanuatu vatu</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>VUV</targetCurrency>
+		<targetName>Vanuatu vatu</targetName>
+		<exchangeRate>151.00936250</exchangeRate>
+		<inverseRate>0.00662211</inverseRate>
+		<inverseDescription>1 Vanuatu vatu = 0.00662211 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 0.38039065 KWD</title>
+		<link>http://www.floatrates.com/gbp/kwd/</link>
+		<description>1 U.K. Pound Sterling = 0.38039065 Kuwaiti Dinar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.38039065</exchangeRate>
+		<inverseRate>2.62887643</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 2.62887643 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 42.90156611 THB</title>
+		<link>http://www.floatrates.com/gbp/thb/</link>
+		<description>1 U.K. Pound Sterling = 42.90156611 Thai Baht</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>42.90156611</exchangeRate>
+		<inverseRate>0.02330917</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.02330917 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4.54734346 PEN</title>
+		<link>http://www.floatrates.com/gbp/pen/</link>
+		<description>1 U.K. Pound Sterling = 4.54734346 Peruvian Nuevo Sol</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>4.54734346</exchangeRate>
+		<inverseRate>0.21990861</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 0.21990861 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 14224.85287554 UZS</title>
+		<link>http://www.floatrates.com/gbp/uzs/</link>
+		<description>1 U.K. Pound Sterling = 14224.85287554 Uzbekistan Sum</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>14224.85287554</exchangeRate>
+		<inverseRate>0.00007030</inverseRate>
+		<inverseDescription>1 Uzbekistan Sum = 0.00007030 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 68.57333167 ETB</title>
+		<link>http://www.floatrates.com/gbp/etb/</link>
+		<description>1 U.K. Pound Sterling = 68.57333167 Ethiopian birr</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ETB</targetCurrency>
+		<targetName>Ethiopian birr</targetName>
+		<exchangeRate>68.57333167</exchangeRate>
+		<inverseRate>0.01458293</inverseRate>
+		<inverseDescription>1 Ethiopian birr = 0.01458293 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 8.52127782 TTD</title>
+		<link>http://www.floatrates.com/gbp/ttd/</link>
+		<description>1 U.K. Pound Sterling = 8.52127782 Trinidad Tobago Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>8.52127782</exchangeRate>
+		<inverseRate>0.11735329</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.11735329 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4.44310817 PGK</title>
+		<link>http://www.floatrates.com/gbp/pgk/</link>
+		<description>1 U.K. Pound Sterling = 4.44310817 Papua New Guinean kina</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>4.44310817</exchangeRate>
+		<inverseRate>0.22506767</inverseRate>
+		<inverseDescription>1 Papua New Guinean kina = 0.22506767 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 17.05369457 BWP</title>
+		<link>http://www.floatrates.com/gbp/bwp/</link>
+		<description>1 U.K. Pound Sterling = 17.05369457 Botswana Pula</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>17.05369457</exchangeRate>
+		<inverseRate>0.05863832</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.05863832 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 0.47609452 OMR</title>
+		<link>http://www.floatrates.com/gbp/omr/</link>
+		<description>1 U.K. Pound Sterling = 0.47609452 Omani Rial</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.47609452</exchangeRate>
+		<inverseRate>2.10042327</inverseRate>
+		<inverseDescription>1 Omani Rial = 2.10042327 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4.61224284 ILS</title>
+		<link>http://www.floatrates.com/gbp/ils/</link>
+		<description>1 U.K. Pound Sterling = 4.61224284 Israeli New Sheqel</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>4.61224284</exchangeRate>
+		<inverseRate>0.21681426</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.21681426 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 427.69773315 HUF</title>
+		<link>http://www.floatrates.com/gbp/huf/</link>
+		<description>1 U.K. Pound Sterling = 427.69773315 Hungarian Forint</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>427.69773315</exchangeRate>
+		<inverseRate>0.00233810</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.00233810 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 9.73883671 HRK</title>
+		<link>http://www.floatrates.com/gbp/hrk/</link>
+		<description>1 U.K. Pound Sterling = 9.73883671 Croatian Kuna</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>9.73883671</exchangeRate>
+		<inverseRate>0.10268167</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.10268167 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 13.60584043 TJS</title>
+		<link>http://www.floatrates.com/gbp/tjs/</link>
+		<description>1 U.K. Pound Sterling = 13.60584043 Tajikistan Ruble</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>13.60584043</exchangeRate>
+		<inverseRate>0.07349785</inverseRate>
+		<inverseDescription>1 Tajikistan Ruble = 0.07349785 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 74.33661738 GMD</title>
+		<link>http://www.floatrates.com/gbp/gmd/</link>
+		<description>1 U.K. Pound Sterling = 74.33661738 Gambian dalasi</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>GMD</targetCurrency>
+		<targetName>Gambian dalasi</targetName>
+		<exchangeRate>74.33661738</exchangeRate>
+		<inverseRate>0.01345232</inverseRate>
+		<inverseDescription>1 Gambian dalasi = 0.01345232 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 129.16907277 CVE</title>
+		<link>http://www.floatrates.com/gbp/cve/</link>
+		<description>1 U.K. Pound Sterling = 129.16907277 Cape Verde escudo</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CVE</targetCurrency>
+		<targetName>Cape Verde escudo</targetName>
+		<exchangeRate>129.16907277</exchangeRate>
+		<inverseRate>0.00774179</inverseRate>
+		<inverseDescription>1 Cape Verde escudo = 0.00774179 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 24.02592330 ZMW</title>
+		<link>http://www.floatrates.com/gbp/zmw/</link>
+		<description>1 U.K. Pound Sterling = 24.02592330 Zambian kwacha</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ZMW</targetCurrency>
+		<targetName>Zambian kwacha</targetName>
+		<exchangeRate>24.02592330</exchangeRate>
+		<inverseRate>0.04162171</inverseRate>
+		<inverseDescription>1 Zambian kwacha = 0.04162171 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 5161.65236381 KHR</title>
+		<link>http://www.floatrates.com/gbp/khr/</link>
+		<description>1 U.K. Pound Sterling = 5161.65236381 Cambodian riel</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KHR</targetCurrency>
+		<targetName>Cambodian riel</targetName>
+		<exchangeRate>5161.65236381</exchangeRate>
+		<inverseRate>0.00019374</inverseRate>
+		<inverseDescription>1 Cambodian riel = 0.00019374 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 13.31885177 SEK</title>
+		<link>http://www.floatrates.com/gbp/sek/</link>
+		<description>1 U.K. Pound Sterling = 13.31885177 Swedish Krona</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>13.31885177</exchangeRate>
+		<inverseRate>0.07508155</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.07508155 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.67044561 SGD</title>
+		<link>http://www.floatrates.com/gbp/sgd/</link>
+		<description>1 U.K. Pound Sterling = 1.67044561 Singapore Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>1.67044561</exchangeRate>
+		<inverseRate>0.59864266</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 0.59864266 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 171.82801651 ISK</title>
+		<link>http://www.floatrates.com/gbp/isk/</link>
+		<description>1 U.K. Pound Sterling = 171.82801651 Icelandic Krona</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>171.82801651</exchangeRate>
+		<inverseRate>0.00581977</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.00581977 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 6.00965125 LYD</title>
+		<link>http://www.floatrates.com/gbp/lyd/</link>
+		<description>1 U.K. Pound Sterling = 6.00965125 Libyan Dinar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>6.00965125</exchangeRate>
+		<inverseRate>0.16639901</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.16639901 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 987.28040227 CLP</title>
+		<link>http://www.floatrates.com/gbp/clp/</link>
+		<description>1 U.K. Pound Sterling = 987.28040227 Chilean Peso</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>987.28040227</exchangeRate>
+		<inverseRate>0.00101288</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.00101288 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.25524512 BSD</title>
+		<link>http://www.floatrates.com/gbp/bsd/</link>
+		<description>1 U.K. Pound Sterling = 1.25524512 Bahamian Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>1.25524512</exchangeRate>
+		<inverseRate>0.79665715</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 0.79665715 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 138.97655170 XPF</title>
+		<link>http://www.floatrates.com/gbp/xpf/</link>
+		<description>1 U.K. Pound Sterling = 138.97655170 CFP Franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>138.97655170</exchangeRate>
+		<inverseRate>0.00719546</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.00719546 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 129.06045753 ALL</title>
+		<link>http://www.floatrates.com/gbp/all/</link>
+		<description>1 U.K. Pound Sterling = 129.06045753 Albanian lek</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ALL</targetCurrency>
+		<targetName>Albanian lek</targetName>
+		<exchangeRate>129.06045753</exchangeRate>
+		<inverseRate>0.00774831</inverseRate>
+		<inverseDescription>1 Albanian lek = 0.00774831 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 16.52971346 SCR</title>
+		<link>http://www.floatrates.com/gbp/scr/</link>
+		<description>1 U.K. Pound Sterling = 16.52971346 Seychelles rupee</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SCR</targetCurrency>
+		<targetName>Seychelles rupee</targetName>
+		<exchangeRate>16.52971346</exchangeRate>
+		<inverseRate>0.06049712</inverseRate>
+		<inverseDescription>1 Seychelles rupee = 0.06049712 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 67.63063719 DOP</title>
+		<link>http://www.floatrates.com/gbp/dop/</link>
+		<description>1 U.K. Pound Sterling = 67.63063719 Dominican Peso</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>67.63063719</exchangeRate>
+		<inverseRate>0.01478620</inverseRate>
+		<inverseDescription>1 Dominican Peso = 0.01478620 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 8.72864922 CNY</title>
+		<link>http://www.floatrates.com/gbp/cny/</link>
+		<description>1 U.K. Pound Sterling = 8.72864922 Chinese Yuan</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>8.72864922</exchangeRate>
+		<inverseRate>0.11456526</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.11456526 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 5.68654923 MYR</title>
+		<link>http://www.floatrates.com/gbp/myr/</link>
+		<description>1 U.K. Pound Sterling = 5.68654923 Malaysian Ringgit</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>5.68654923</exchangeRate>
+		<inverseRate>0.17585357</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.17585357 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 554.33762278 KZT</title>
+		<link>http://www.floatrates.com/gbp/kzt/</link>
+		<description>1 U.K. Pound Sterling = 554.33762278 Kazakhstani Tenge</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>554.33762278</exchangeRate>
+		<inverseRate>0.00180395</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.00180395 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 177.07053126 HTG</title>
+		<link>http://www.floatrates.com/gbp/htg/</link>
+		<description>1 U.K. Pound Sterling = 177.07053126 Haitian gourde</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>HTG</targetCurrency>
+		<targetName>Haitian gourde</targetName>
+		<exchangeRate>177.07053126</exchangeRate>
+		<inverseRate>0.00564747</inverseRate>
+		<inverseDescription>1 Haitian gourde = 0.00564747 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.69248226 BND</title>
+		<link>http://www.floatrates.com/gbp/bnd/</link>
+		<description>1 U.K. Pound Sterling = 1.69248226 Brunei Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>1.69248226</exchangeRate>
+		<inverseRate>0.59084814</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 0.59084814 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 574.59045803 KMF</title>
+		<link>http://www.floatrates.com/gbp/kmf/</link>
+		<description>1 U.K. Pound Sterling = 574.59045803 	Comoro franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KMF</targetCurrency>
+		<targetName>	Comoro franc</targetName>
+		<exchangeRate>574.59045803</exchangeRate>
+		<inverseRate>0.00174037</inverseRate>
+		<inverseDescription>1 	Comoro franc = 0.00174037 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 24.17059074 LSL</title>
+		<link>http://www.floatrates.com/gbp/lsl/</link>
+		<description>1 U.K. Pound Sterling = 24.17059074 Lesotho loti</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LSL</targetCurrency>
+		<targetName>Lesotho loti</targetName>
+		<exchangeRate>24.17059074</exchangeRate>
+		<inverseRate>0.04137259</inverseRate>
+		<inverseDescription>1 Lesotho loti = 0.04137259 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2970.07998851 TZS</title>
+		<link>http://www.floatrates.com/gbp/tzs/</link>
+		<description>1 U.K. Pound Sterling = 2970.07998851 Tanzanian shilling</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TZS</targetCurrency>
+		<targetName>Tanzanian shilling</targetName>
+		<exchangeRate>2970.07998851</exchangeRate>
+		<inverseRate>0.00033669</inverseRate>
+		<inverseDescription>1 Tanzanian shilling = 0.00033669 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.21645514 ANG</title>
+		<link>http://www.floatrates.com/gbp/ang/</link>
+		<description>1 U.K. Pound Sterling = 2.21645514 Neth. Antillean Guilder</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>2.21645514</exchangeRate>
+		<inverseRate>0.45117087</inverseRate>
+		<inverseDescription>1 Neth. Antillean Guilder = 0.45117087 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 18590.90065876 LBP</title>
+		<link>http://www.floatrates.com/gbp/lbp/</link>
+		<description>1 U.K. Pound Sterling = 18590.90065876 Lebanese Pound</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>18590.90065876</exchangeRate>
+		<inverseRate>0.00005379</inverseRate>
+		<inverseDescription>1 Lebanese Pound = 0.00005379 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 755.35373684 XOF</title>
+		<link>http://www.floatrates.com/gbp/xof/</link>
+		<description>1 U.K. Pound Sterling = 755.35373684 West African CFA Franc</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>755.35373684</exchangeRate>
+		<inverseRate>0.00132388</inverseRate>
+		<inverseDescription>1 West African CFA Franc = 0.00132388 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 481.15677779 AMD</title>
+		<link>http://www.floatrates.com/gbp/amd/</link>
+		<description>1 U.K. Pound Sterling = 481.15677779 Armenia Dram</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>481.15677779</exchangeRate>
+		<inverseRate>0.00207832</inverseRate>
+		<inverseDescription>1 Armenia Dram = 0.00207832 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 48.37105601 UYU</title>
+		<link>http://www.floatrates.com/gbp/uyu/</link>
+		<description>1 U.K. Pound Sterling = 48.37105601 Uruguayan Peso</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>48.37105601</exchangeRate>
+		<inverseRate>0.02067352</inverseRate>
+		<inverseDescription>1 Uruguayan Peso = 0.02067352 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 193.27520518 JMD</title>
+		<link>http://www.floatrates.com/gbp/jmd/</link>
+		<description>1 U.K. Pound Sterling = 193.27520518 Jamaican Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>193.27520518</exchangeRate>
+		<inverseRate>0.00517397</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.00517397 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1175.32219365 SSP</title>
+		<link>http://www.floatrates.com/gbp/ssp/</link>
+		<description>1 U.K. Pound Sterling = 1175.32219365 South Sudanese pound</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SSP</targetCurrency>
+		<targetName>South Sudanese pound</targetName>
+		<exchangeRate>1175.32219365</exchangeRate>
+		<inverseRate>0.00085083</inverseRate>
+		<inverseDescription>1 South Sudanese pound = 0.00085083 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 43.19892831 MRU</title>
+		<link>http://www.floatrates.com/gbp/mru/</link>
+		<description>1 U.K. Pound Sterling = 43.19892831 Mauritanian ouguiya</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MRU</targetCurrency>
+		<targetName>Mauritanian ouguiya</targetName>
+		<exchangeRate>43.19892831</exchangeRate>
+		<inverseRate>0.02314872</inverseRate>
+		<inverseDescription>1 Mauritanian ouguiya = 0.02314872 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 4388.92391910 MNT</title>
+		<link>http://www.floatrates.com/gbp/mnt/</link>
+		<description>1 U.K. Pound Sterling = 4388.92391910 Mongolian togrog</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MNT</targetCurrency>
+		<targetName>Mongolian togrog</targetName>
+		<exchangeRate>4388.92391910</exchangeRate>
+		<inverseRate>0.00022785</inverseRate>
+		<inverseDescription>1 Mongolian togrog = 0.00022785 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 0.87729627 JOD</title>
+		<link>http://www.floatrates.com/gbp/jod/</link>
+		<description>1 U.K. Pound Sterling = 0.87729627 Jordanian Dinar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.87729627</exchangeRate>
+		<inverseRate>1.13986579</inverseRate>
+		<inverseDescription>1 Jordanian Dinar = 1.13986579 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 69.20501544 PHP</title>
+		<link>http://www.floatrates.com/gbp/php/</link>
+		<description>1 U.K. Pound Sterling = 69.20501544 Philippine Peso</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>69.20501544</exchangeRate>
+		<inverseRate>0.01444982</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.01444982 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 574.17309542 NGN</title>
+		<link>http://www.floatrates.com/gbp/ngn/</link>
+		<description>1 U.K. Pound Sterling = 574.17309542 Nigerian Naira</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>574.17309542</exchangeRate>
+		<inverseRate>0.00174164</inverseRate>
+		<inverseDescription>1 Nigerian Naira = 0.00174164 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 109.00085295 KGS</title>
+		<link>http://www.floatrates.com/gbp/kgs/</link>
+		<description>1 U.K. Pound Sterling = 109.00085295 Kyrgyzstan Som</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>109.00085295</exchangeRate>
+		<inverseRate>0.00917424</inverseRate>
+		<inverseDescription>1 Kyrgyzstan Som = 0.00917424 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 5539.73518027 MGA</title>
+		<link>http://www.floatrates.com/gbp/mga/</link>
+		<description>1 U.K. Pound Sterling = 5539.73518027 Malagasy ariary</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MGA</targetCurrency>
+		<targetName>Malagasy ariary</targetName>
+		<exchangeRate>5539.73518027</exchangeRate>
+		<inverseRate>0.00018051</inverseRate>
+		<inverseDescription>1 Malagasy ariary = 0.00018051 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 47.39718928 SRD</title>
+		<link>http://www.floatrates.com/gbp/srd/</link>
+		<description>1 U.K. Pound Sterling = 47.39718928 Surinamese dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SRD</targetCurrency>
+		<targetName>Surinamese dollar</targetName>
+		<exchangeRate>47.39718928</exchangeRate>
+		<inverseRate>0.02109830</inverseRate>
+		<inverseDescription>1 Surinamese dollar = 0.02109830 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 13.68948200 GHS</title>
+		<link>http://www.floatrates.com/gbp/ghs/</link>
+		<description>1 U.K. Pound Sterling = 13.68948200 Ghanaian Cedi</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>13.68948200</exchangeRate>
+		<inverseRate>0.07304878</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 0.07304878 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 1.25524512 CUP</title>
+		<link>http://www.floatrates.com/gbp/cup/</link>
+		<description>1 U.K. Pound Sterling = 1.25524512 Cuban peso</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>1.25524512</exchangeRate>
+		<inverseRate>0.79665715</inverseRate>
+		<inverseDescription>1 Cuban peso = 0.79665715 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 2.03653473 NZD</title>
+		<link>http://www.floatrates.com/gbp/nzd/</link>
+		<description>1 U.K. Pound Sterling = 2.03653473 New Zealand Dollar</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>2.03653473</exchangeRate>
+		<inverseRate>0.49103017</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 0.49103017 U.K. Pound Sterling</inverseDescription>
+	</item>
+	<item>
+		<title>1 GBP = 24.73821391 TRY</title>
+		<link>http://www.floatrates.com/gbp/try/</link>
+		<description>1 U.K. Pound Sterling = 24.73821391 Turkish Lira</description>
+		<pubDate>Mon, 29 May 2023 11:55:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>24.73821391</exchangeRate>
+		<inverseRate>0.04042329</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.04042329 U.K. Pound Sterling</inverseDescription>
+	</item>
+</channel>
