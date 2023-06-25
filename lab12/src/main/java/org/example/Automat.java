@@ -25,7 +25,7 @@ public class Automat {
     public Object callFunction(String function, Object... args) {
         try {
             Value jsFunction = binding.getMember(function);
-            return jsFunction.execute(args).as(int[].class);
+            return jsFunction.execute(args).as(int[][].class);
         } catch (Exception e) {}
         return null;
     }

@@ -13,25 +13,27 @@ public class AutomatGUI extends JFrame {
     private final int WINDOW_HEIGHT = 500;
 
     private Automat automaton;
-    private int[] generation;
+    private int[][] generation;
     private JButton loadButton;
 
     public AutomatGUI(String scriptName) {
         setTitle(TITLE);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setBounds((SCREEN_WIDTH - WINDOW_WIDTH)/2, (SCREEN_HEIGHT - WINDOW_HEIGHT)/2 , WINDOW_WIDTH, WINDOW_HEIGHT);
+        setBounds((SCREEN_WIDTH - WINDOW_WIDTH)/2 + 1920, (SCREEN_HEIGHT - WINDOW_HEIGHT)/2 , WINDOW_WIDTH, WINDOW_HEIGHT);
 
         automaton = new Automat(scriptName);
-        generation = new int[31];
-        generation[generation.length / 2] = 1;
+        generation = new int[31][31];
+        generation[15][15] = 1;
 
         JPanel panel = new JPanel(new GridLayout(0, 1)) {
             @Override
             protected void paintComponent(Graphics g) {
                 super.paintComponent(g);
-                for (int i = 0; i < generation.length; i++) {
-                    if (generation[i] == 1) {
-                        g.fillRect(i * 15, 200, 15, 15);
+                for (int i = 0; i < generation.length - 1; i++) {
+                    for (int j = 0; j < generation[0].length - 1; j++) {
+                        if (generation[i][j] == 1) {
+                            g.fillRect(i * 15 + 25, j*15- 14, 15, 15);
+                        }
                     }
                 }
             }
@@ -39,7 +41,7 @@ public class AutomatGUI extends JFrame {
         add(panel);
 
         new Timer(1000, e -> {
-            generation = (int[]) automaton.callFunction("nextGeneration", new Object[]{generation});
+            generation = (int[][]) automaton.callFunction("nextGeneration", new Object[]{generation});
             panel.repaint();
         }).start();
 
