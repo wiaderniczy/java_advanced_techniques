@@ -26,7 +26,7 @@ Napisz aplikację, która umożliwi przeglądanie danych pomiarowych przechowywa
 Zakładamy, że pliki danych będą składowane w folderach o nazwach reprezentujących daty kampanii pomiarowych (np. nazwą folderu może być 07.03.2023), zaś nazwy samych plików będą odpowiadały identyfikatorowi stanowiska pomiarowego oraz godzinie rozpoczęcia pomiarów (np. nazwą pliku może być 0001_10:00). 
 Zawartość plików powinna odpowiadać następującemu schematowi:
 
-# godzina pomiaru; ciśnienie [hPa];  temperatura [stopnie C]; wilgotność [%]
+\# godzina pomiaru; ciśnienie [hPa];  temperatura [stopnie C]; wilgotność [%]
 10:00; 960,34; -1,2; 60;
 10:02; 960,34; -1,2; 60;
 ....
@@ -128,7 +128,7 @@ Trochę informacji o SPI można znaleźć pod adresem:
 Porównanie SPI ze SpringBoot DI zamieszczono pod adresem:
     https://itnext.io/serviceloader-the-built-in-di-framework-youve-probably-never-heard-of-1fa68a911f9b
 
---------------------------------
+```--------------------------------
 package ex.api;
 
 /**
@@ -199,7 +199,7 @@ public class DataSet {
 	}
 }
 --------------------------------
-
+```
 
 ## Lab06
 
@@ -335,7 +335,7 @@ Sama aplikacja ma pozwalać na generowanie wpisów do pamiętnika na podstawie s
 Do przemyślenia jest, w jaki sposób użytkownik ma przekazywać do aplikacji niezbędne atrybuty (liczba i typ atrybutów może zależeć od rodzaju szablonu).
 
 W gitowym repozytorium w gałęzi sources należy umieścić wszystkie źródła plus plik Readme.md (z dołączonymi zrzutami i opisem, jak uruchomić aplikację), w gałęzi releases - wykonywalny plik jar (z przygotowaniem jara może być problem - trzeba sprawdzić, czy pliki fxml, css oraz szablonów będą się ładować z tego jara, ostatecznie można je dystrybuować osobno).
-
+```
 ########### Sample1.fxml  ###########
 <?xml version="1.0" encoding="UTF-8"?>
 <?language javascript?>
@@ -484,6 +484,7 @@ public class Sample1 extends Application {
     -fx-background-color: -fx-focus-color;
     -fx-text-fill: #ffffff;
 }
+```
 
 .button:default:hover {
     -fx-background-color: derive(-fx-focus-color,30%);
