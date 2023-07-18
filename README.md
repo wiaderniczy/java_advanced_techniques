@@ -484,8 +484,9 @@ public class Sample1 extends Application {
     -fx-background-color: -fx-focus-color;
     -fx-text-fill: #ffffff;
 }
-```
 
 .button:default:hover {
     -fx-background-color: derive(-fx-focus-color,30%);
 }
+
+```
